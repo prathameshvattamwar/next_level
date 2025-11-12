@@ -579,7 +579,6 @@ textarea.form-input {
 
   .close-icon {
     display: none;
-    position: relative;
     font-size: 1.7em;
     transform: translate(85%, -62px);
   }
@@ -675,3 +674,4 @@ textarea.form-input {
   opacity: 0;
 
 }
+
