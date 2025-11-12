@@ -247,6 +247,7 @@ p {
   padding: 50px 0;
   position: relative;
   overflow: hidden;
+  padding-top:10px;
 }
 
 .section-title {
@@ -596,6 +597,7 @@ textarea.form-input {
 @media (max-width: 576px) {
   .section {
     padding: 70px 0;
+    padding-top:10px;
   }
 
   .portfolio-filter {
@@ -675,5 +677,6 @@ textarea.form-input {
   opacity: 0;
 
 }
+
 
 
