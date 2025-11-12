@@ -580,9 +580,8 @@ textarea.form-input {
   .close-icon {
     display: none;
     position: relative;
-    left: 93%;
-    bottom: 23%;
-    font-size: 1.6em;
+    font-size: 1.7em;
+    transform: translate(85%, -62px);
   }
 
   .mobile-nav-toggle.active .menu-icon {
@@ -674,4 +673,5 @@ textarea.form-input {
   z-index: 9998;
   transition: 0.1s ease-out;
   opacity: 0;
+
 }
