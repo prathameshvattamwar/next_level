@@ -229,7 +229,8 @@ p {
   width: 300px;
   height: 300px;
   border-radius: 53% 47% 32% 68% / 45% 56% 44% 55%;
-  background: var(--primary);
+  /* background: var(--primary); */
+  background: #ff00ee;
 }
 
 .shape-2 {
@@ -674,4 +675,5 @@ textarea.form-input {
   opacity: 0;
 
 }
+
 
